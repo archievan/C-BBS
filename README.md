@@ -1,5 +1,7 @@
 # C-BBS
 
+![Image](https://github.com/archievan/C-BBS/blob/master/%E5%9B%BE%E7%89%871.png)
+![Image](https://github.com/archievan/C-BBS/blob/master/%E5%9B%BE%E7%89%872.png)
 JSP        15            22                                 OK
 
 Servelt    15            8
